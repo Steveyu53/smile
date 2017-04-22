@@ -2,8 +2,3 @@
 Please take it into consideration
 Do you have any idea about this question?
 add branch
-<<<<<<< HEAD
-
-=======
-more
->>>>>>> branch1
